@@ -1,4 +1,3 @@
-landofcoder/magento2-smtp
 # Best Magento 2 SMTP Extension from Landofcoder
 Welcome to the **Magento-2-SMTP-Extension** 
 
